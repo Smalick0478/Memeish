@@ -41,7 +41,7 @@ $(function () {
         reader.readAsDataURL(file)
     })
 
-    // Event: Choice was made
+    // Event: Choice was made for canvas
     $('.choice-section').on('choice-done', function (e, imgInfo) {
         $('.discription').fadeOut()
         $('.choice-section').fadeOut('normal', function () {
