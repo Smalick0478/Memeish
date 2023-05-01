@@ -13,9 +13,14 @@ Memeish is a fun and user-friendly website that allows you to generate your own 
 - Custom Meme Upload
 - Edit in your browser
 - Meme Preview
+- Image overlay
 - Color & Text Edit Support
 - Api Services to fetech memes
 - Download Your Meme
+
+## Screenshots
+![image](https://user-images.githubusercontent.com/20766696/235488367-4d66ad91-f549-4a44-b95e-7cfe2e6fef9b.png)
+![image](https://user-images.githubusercontent.com/20766696/235488466-edd7178d-07e4-419c-8d56-a8e5801c466b.png)
 
 
 ## Run Locally
